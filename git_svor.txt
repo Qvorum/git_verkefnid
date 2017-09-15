@@ -25,3 +25,6 @@
 
 6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
 		Eftir að aðilinn sem gerði kóðan skoði hvort hann virki og er ekki með nein villuboð, Því annars myndi það taka lengri tíma að leita í öllu commits
+
+7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
+		Working directory er commitið sem þú ert að vinna að , Staging Area er folderinn sem þú vinnur í og Repository er allt í commitið
