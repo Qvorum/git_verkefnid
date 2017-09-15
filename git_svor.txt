@@ -1,0 +1,6 @@
+1. Hvað gera eftirfarandi Linux skipanir?
+	cd - Opnar möppu t.d cd mappa opnar möppuna mappa 
+	cd ~ - Opnar möppuna í user sem þú átt t.d C:/User/Hákon
+	ls - Sýnir innihald möppunar
+	pwd - Segir hvaða möppu þú ert að vinna í
+	mkdir - Býr til nýja möppu
