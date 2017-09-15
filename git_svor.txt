@@ -4,3 +4,15 @@
 	ls - Sýnir innihald möppunar
 	pwd - Segir hvaða möppu þú ert að vinna í
 	mkdir - Býr til nýja möppu
+
+2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
+	git clone - Setur innihald möppu í aðra möppu
+	git log - Segir hver gerði hvaða kóða
+	git status - Sýnir allar tegundir af forritinu sem hefur verið gerð
+	git diff - Sýnir hvað hefur breyst
+	git checkout - Gefur það út sem nýtt branch
+
+3. Hver er munurinn á eftirfarandi git skipunum:
+	a) git diff - Sýnir hvað hefur breyst
+	b) git diff --staged - Sýnir allt sem þú hefur gert
+	c) git diff commit1 commit2 - Sýnir hvað þú hefur gert á milli tveggja gerðum
