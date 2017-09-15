@@ -37,3 +37,5 @@
 
 10.	Hvar er GIT helst notað?
 		Hópverkefnum
+
+Hákon Haraldsson
