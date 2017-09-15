@@ -19,3 +19,6 @@
 
 4. 	Hvað er útgáfustýring (e.version control)? 
 		Sýnir hvað Forrit hefur breyst á milli útgáfna
+
+5.	Hverjir eru helstu kostir við að nota GIT?
+		Hægt að vinna tveir eða fleiri að sama hlut
