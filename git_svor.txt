@@ -16,3 +16,6 @@
 	a) git diff - Sýnir hvað hefur breyst
 	b) git diff --staged - Sýnir allt sem þú hefur gert
 	c) git diff commit1 commit2 - Sýnir hvað þú hefur gert á milli tveggja gerðum
+
+4. 	Hvað er útgáfustýring (e.version control)? 
+		Sýnir hvað Forrit hefur breyst á milli útgáfna
